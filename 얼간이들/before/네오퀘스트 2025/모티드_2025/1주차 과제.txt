@@ -1,4 +1,0 @@
-
-1. Unreal engine(혹은 Unity) 엔진과 gemini, github copilot를 이용해 게임 제작하기.
-2. AI 게임제작용 커스텀 에이전트를 제작하기(by MCP, Engine/DX12, and else) (가능하면)
-3. AI 이용한 engine 파이프라인과 플로우를 만들어보기(가능하면)
